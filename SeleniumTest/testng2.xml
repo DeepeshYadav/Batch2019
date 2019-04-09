@@ -1,0 +1,17 @@
+<suite name = "Suite1">
+   <test name = "test1">
+      <classes>
+         <class name = "ParallelTest.TestA"/>
+      </classes>
+   </test>
+   <test name = "test2">
+      <classes>
+         <class name = "ParallelTest.TestB"/>
+      </classes>
+   </test>
+   <test name = "test3">
+      <classes>
+         <class name = "ParallelTest.TestC"/>
+      </classes>
+   </test>
+</suite>

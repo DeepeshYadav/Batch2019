@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="47" started-at="2018-10-29T02:49:43Z" finished-at="2018-10-29T02:49:43Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="47" started-at="2018-10-29T02:49:43Z" finished-at="2018-10-29T02:49:43Z">
+      <class name="TestNG.AnnotationTestNG">
+        <test-method status="PASS" signature="BeforeSuiteMethod()[pri:0, instance:TestNG.AnnotationTestNG@6f7fd0e6]" name="BeforeSuiteMethod" is-config="true" duration-ms="11" started-at="2018-10-29T08:19:43Z" finished-at="2018-10-29T08:19:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeSuiteMethod -->
+        <test-method status="PASS" signature="beforetest()[pri:0, instance:TestNG.AnnotationTestNG@6f7fd0e6]" name="beforetest" is-config="true" duration-ms="0" started-at="2018-10-29T08:19:43Z" finished-at="2018-10-29T08:19:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method status="PASS" signature="BeforeClassMethod()[pri:0, instance:TestNG.AnnotationTestNG@6f7fd0e6]" name="BeforeClassMethod" is-config="true" duration-ms="0" started-at="2018-10-29T08:19:43Z" finished-at="2018-10-29T08:19:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeClassMethod -->
+        <test-method status="PASS" signature="BeforeMethod()[pri:0, instance:TestNG.AnnotationTestNG@6f7fd0e6]" name="BeforeMethod" is-config="true" duration-ms="0" started-at="2018-10-29T08:19:43Z" finished-at="2018-10-29T08:19:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method status="PASS" signature="AloginTest()[pri:0, instance:TestNG.AnnotationTestNG@6f7fd0e6]" name="AloginTest" duration-ms="7" started-at="2018-10-29T08:19:43Z" finished-at="2018-10-29T08:19:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AloginTest -->
+        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:TestNG.AnnotationTestNG@6f7fd0e6]" name="AfterMethod" is-config="true" duration-ms="1" started-at="2018-10-29T08:19:43Z" finished-at="2018-10-29T08:19:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method status="PASS" signature="homeTest()[pri:0, instance:TestNG.AnnotationTestNG@6f7fd0e6]" name="homeTest" duration-ms="9" started-at="2018-10-29T08:19:43Z" finished-at="2018-10-29T08:19:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homeTest -->
+        <test-method status="PASS" signature="BeforeMethod()[pri:0, instance:TestNG.AnnotationTestNG@6f7fd0e6]" name="BeforeMethod" is-config="true" duration-ms="0" started-at="2018-10-29T08:19:43Z" finished-at="2018-10-29T08:19:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:TestNG.AnnotationTestNG@6f7fd0e6]" name="AfterMethod" is-config="true" duration-ms="1" started-at="2018-10-29T08:19:43Z" finished-at="2018-10-29T08:19:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method status="PASS" signature="logoutTest()[pri:0, instance:TestNG.AnnotationTestNG@6f7fd0e6]" name="logoutTest" duration-ms="6" started-at="2018-10-29T08:19:43Z" finished-at="2018-10-29T08:19:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutTest -->
+        <test-method status="PASS" signature="BeforeMethod()[pri:0, instance:TestNG.AnnotationTestNG@6f7fd0e6]" name="BeforeMethod" is-config="true" duration-ms="0" started-at="2018-10-29T08:19:43Z" finished-at="2018-10-29T08:19:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method status="PASS" signature="AfterClassMethod()[pri:0, instance:TestNG.AnnotationTestNG@6f7fd0e6]" name="AfterClassMethod" is-config="true" duration-ms="1" started-at="2018-10-29T08:19:43Z" finished-at="2018-10-29T08:19:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterClassMethod -->
+        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:TestNG.AnnotationTestNG@6f7fd0e6]" name="AfterMethod" is-config="true" duration-ms="0" started-at="2018-10-29T08:19:43Z" finished-at="2018-10-29T08:19:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method status="PASS" signature="aftertest()[pri:0, instance:TestNG.AnnotationTestNG@6f7fd0e6]" name="aftertest" is-config="true" duration-ms="1" started-at="2018-10-29T08:19:43Z" finished-at="2018-10-29T08:19:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+        <test-method status="PASS" signature="AfterSuiteMethod()[pri:0, instance:TestNG.AnnotationTestNG@6f7fd0e6]" name="AfterSuiteMethod" is-config="true" duration-ms="0" started-at="2018-10-29T08:19:43Z" finished-at="2018-10-29T08:19:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterSuiteMethod -->
+      </class> <!-- TestNG.AnnotationTestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

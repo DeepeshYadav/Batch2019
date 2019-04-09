@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite1]" parallel="tests">
+  <test name="test2(failed)" parallel="tests">
+    <classes>
+      <class name="GridTest.GridTest1">
+        <methods>
+          <include name="afterTest"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- GridTest.GridTest1 -->
+      <class name="GridTest.GridTest2">
+        <methods>
+          <include name="setUp"/>
+          <include name="sampleTest"/>
+        </methods>
+      </class> <!-- GridTest.GridTest2 -->
+    </classes>
+  </test> <!-- test2(failed) -->
+</suite> <!-- Failed suite [Suite1] -->
